@@ -1,4 +1,4 @@
-# UPDATE TITLE 
+# Skin Lesion Classification
 
 ## Python dependencies 
 
@@ -6,7 +6,7 @@
 
 ## Evaluation
 
-TODO
+Run [evaluation.ipynb](./test/evaluation.ipynb)
 
 ## Training
 
